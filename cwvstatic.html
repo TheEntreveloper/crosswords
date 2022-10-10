@@ -75,10 +75,10 @@
         if (window.screen.width<500) {
 			cwidth = window.screen.width-25;
 		}
-		var cw = getChosenCw();
+		var cwchosen = getChosenCw();
         var canvas = '<canvas id="cwCanvas" width="'+cwidth+'" height="'+cwidth+'" style="border:1px solid #0b0b0b"></canvas>';
         $('#myParent').html(canvas);
-        crossword('cwCanvas', 'data/'+cw+'.xml', function(data) { //cwhtml5/cw
+        crossword('cwCanvas', 'data/'+cwchosen+'.xml', function(data) { //cwhtml5/cw
             $('#messages').html(data);
         });
 		// workaround to make keyboards visible and get pressed keys on certain mobile browsers.
