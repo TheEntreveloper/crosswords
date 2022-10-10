@@ -44,7 +44,7 @@ The tool was created with Java 1.8 and requires the Java runtime to be available
 
 Run the tool and go to **Help > Help Index**, in the top menu, for assistance to use the tool.<br>
 But briefly, you can create a new project or open an existing one.
-When you start a new project, you must the name, number of columns and number of rows of your crossword.<br>
+When you start a new project, you must enter the name, number of columns and number of rows of your crossword.<br>
 Additionally, you must specify a file with a list of words to use in your crossword.<br>
 This file can be just a list of single words (one word per row), or it can already contain the hint or clue for the end user, 
 next to the word, separated by ;; (2 semi-colon).
