@@ -1,0 +1,17 @@
+trunk;;Elephants use it to pick up food and drink water, touch and smell
+ears;;Help then ventilate
+tusks;;Part of an Elephant made of ivory
+cow;;Name given to female elephants
+bull;;Name given to male elephants
+calf;;Name given to baby elephants
+africa;;continent where a kind of elephants are found
+herd;;term used to refer to a group of elephants
+two;;length of Elephants trunk (in meters)
+dumbo;;dysney's elephant cartoon
+musth;;state of increased testosterone in adult male elephants
+mud;;sunscreen used by elephants :-)
+bones;;Elephants have more than 300 of this in their body
+elephantidae;;Elephants belong to this animal family
+herbivores;;What elephants are, based on what they eat
+no;;can elephants jump?
+large;;opposite of small
