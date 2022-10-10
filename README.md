@@ -13,7 +13,7 @@ Released under the MIT License
 The tool reads Crosswords stored using our custom xml format. The structure of the xml-based crossword data format 
 is simple and self-descriptive. While not difficult to manually create crosswords using this format, a tool to interactively 
 create crosswords from a list of words is also provided below.<br>
-You can see a few examples of crosswords in our format [here](index.html), and read about the format below:<br>
+You can see a few examples of crosswords in our format [here](https://theentreveloper.github.io/crosswords/), and read about the format below:<br>
 
 &lt;!-- the top of the file contains the name,subject and dimensions of the crossword--&gt;<br>
 **&lt;cw name=&quot;a name here&quot; subject=&quot;crossword subject&quot; cols=&quot;17&quot; rows=&quot;17&quot;&gt;**
