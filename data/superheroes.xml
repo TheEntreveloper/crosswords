@@ -1,0 +1,69 @@
+<cw name="gral1" subject="general" cols="15" rows="15">
+<horizontals>
+<word value="BLACKWIDOW" xpos="0" ypos="0">
+A highly trained former-KGB assassin and former agent of S.H.I.E.L.D.
+</word>
+<word value="RAVEN" xpos="9" ypos="5">
+A superheroine with magical abilities and a prominent member of the Teen Titans.
+</word>
+<word value="SUPERMAN" xpos="2" ypos="10">
+His weakness is kryptonite.
+</word>
+<word value="HAWKEYE" xpos="0" ypos="12">
+A master marksman and former S.H.I.E.L.D. agent.
+</word>
+<word value="MORE" xpos="0" ypos="3">
+Opposite of less
+</word>
+<word value="OFF" xpos="9" ypos="1">
+It is not on
+</word>
+<word value="KID" xpos="12" ypos="2">
+Child (Human or Goat :-))
+</word>
+<word value="NEW" xpos="11" ypos="10">
+Novel, contemporary.
+</word>
+<word value="SI" xpos="4" ypos="6">
+Yes (in Spanish)
+</word>
+<word value="VIE" xpos="5" ypos="3">
+Compete
+</word>
+<word value="VOW" xpos="7" ypos="6">
+Formal promise
+</word>
+</horizontals>
+<verticals>
+<word value="BATMAN" xpos="0" ypos="0">
+Vigilant protector of Gotham City.
+</word>
+<word value="WOLVERINE" xpos="5" ypos="0">
+Played by Hugh Jackman in the movie, he is a mutant who possesses animal-keen senses and enhanced physical abilities.
+</word>
+<word value="DAREDEVIL" xpos="7" ypos="0">
+Blinded as a young boy, he is a lawyer by day and hero by night.
+</word>
+<word value="WONDERWOMAN" xpos="9" ypos="0">
+A DC superhero and Amazon.
+</word>
+<word value="VISION" xpos="11" ypos="5">
+A hero because of his artificial intelligence, vibranium-infused synthetic body and the mind stone.
+</word>
+<word value="IRONMAN" xpos="13" ypos="2">
+Founder of The Avengers and CEO of Stark Industries.
+</word>
+<word value="HULK" xpos="3" ypos="9">
+A scientist that was exposed to heavy doses of gamma radiation.
+</word>
+<word value="THOR" xpos="0" ypos="11">
+The Asgardian god of thunder whose enchanted hammer enables him to fly and manipulate weather.
+</word>
+<word value="ACE" xpos="8" ypos="10">
+Master, expert, champion
+</word>
+<word value="ELF" xpos="6" ypos="12">
+Kind of fairy (for instance in the LOTR)
+</word>
+</verticals>
+</cw>

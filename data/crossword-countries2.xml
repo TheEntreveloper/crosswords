@@ -1,0 +1,60 @@
+<cw name="gral1" subject="general" cols="15" rows="15">
+<horizontals>
+<word value="NETHERLANDS" xpos="0" ypos="0">
+This country has the oldest national anthem.
+</word>
+<word value="INDIA" xpos="10" ypos="2">
+Known for its diverse culture, food and Bollywood.
+</word>
+<word value="RUSSIA" xpos="3" ypos="7">
+The largest country in the world by area.
+</word>
+<word value="CANADA" xpos="9" ypos="8">
+80% of the world’s maple syrup is produced in this country.
+</word>
+<word value="CHINA" xpos="0" ypos="9">
+Has the world’s largest population.
+</word>
+<word value="GERMANY" xpos="2" ypos="11">
+The birthplace of classical music and philosophy.
+</word>
+<word value="IRELAND" xpos="5" ypos="14">
+Where Saint Patrick’s Day originated.
+</word>
+</horizontals>
+<verticals>
+<word value="ENGLAND" xpos="1" ypos="0">
+Where cricket was invented.
+</word>
+<word value="EGYPT" xpos="4" ypos="0">
+Famous for its ancient civilisation and monuments of the majestic pharaohs.
+</word>
+<word value="AUSTRALIA" xpos="7" ypos="0">
+Known for having the world’s most dangerous animals.
+</word>
+<word value="SWITZERLAND" xpos="10" ypos="0">
+Famous for their chocolates.
+</word>
+<word value="MADAGASCAR" xpos="12" ypos="0">
+This country is a large island located off the southern coast of Africa.
+</word>
+<word value="USA" xpos="14" ypos="0">
+The hub of the film and music industry.
+</word>
+<word value="﻿FRANCE" xpos="3" ypos="5">
+Home of the Eiffel Tower.
+</word>
+<word value="BRAZIL" xpos="14" ypos="6">
+Where ‘Christ The Redeemer’ is situated.
+</word>
+<word value="QATAR" xpos="6" ypos="10">
+Host of the 2022 Soccer World Cup.
+</word>
+<word value="CYPRUS" xpos="0" ypos="9">
+Known as the original Island of Love.
+</word>
+<word value="CHAD" xpos="11" ypos="11">
+
+</word>
+</verticals>
+</cw>

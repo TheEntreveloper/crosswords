@@ -1,0 +1,66 @@
+<cw name="gral1" subject="general" cols="15" rows="15">
+<horizontals>
+<word value="BEETHOVEN" xpos="0" ypos="0">
+Deaf composer, one of the greatest of the Western Classical tradition.
+</word>
+<word value="EDISON" xpos="0" ypos="6">
+Inventor of the light bulb. (surname)
+</word>
+<word value="PICASSO" xpos="0" ypos="12">
+One of the greatest artists of the 20th century, co-founded Cubism. (surname)
+</word>
+<word value="﻿MJ" xpos="3" ypos="9">
+Invented the moon-walk. (initials)
+</word>
+<word value="ARMSTRONG" xpos="2" ypos="14">
+First man to land on the moon. (surname)
+</word>
+<word value="ROWLING" xpos="8" ypos="8">
+Author of the Harry Potter books. (surname)
+</word>
+<word value="GANDHI" xpos="9" ypos="1">
+The founding father of nonviolent protest, considered the greatest leader in history.
+</word>
+<word value="BEATLES" xpos="6" ypos="11">
+English rock band, arguably the most successful of the 20th century.
+</word>
+</horizontals>
+<verticals>
+<word value="BEYONCE" xpos="0" ypos="0">
+Was the lead vocalist of R&B group, Destiny's Child.
+</word>
+<word value="ELVIS" xpos="2" ypos="0">
+King of Rock and Roll.
+</word>
+<word value="HANKS" xpos="4" ypos="0">
+Actor famous for playing the lead in `Forrest Gump'.
+</word>
+<word value="EINSTEIN" xpos="7" ypos="0">
+One of the greatest and most influential physicists of all time.
+</word>
+<word value="DAVINCI" xpos="1" ypos="6">
+Artist and engineer, best known for the 'Mona Lisa'. (surname)
+</word>
+<word value="OBAMA" xpos="4" ypos="6">
+First African American president of the USA. (surname)
+</word>
+<word value="BOLT" xpos="6" ypos="11">
+Fastest man on earth. (surname)
+</word>
+<word value="RONALDO" xpos="8" ypos="8">
+The highest ever goalscorer in the history of men's soccer as of 2022.
+</word>
+<word value="MANDELA" xpos="11" ypos="3">
+Anti-Apartheid activist & first president of South Africa. (surname)
+</word>
+<word value="MADONNA" xpos="13" ypos="4">
+The Queen of Pop.
+</word>
+<word value="GATES" xpos="9" ypos="1">
+Co-founder of Microsoft. (surname)
+</word>
+<word value="SEAL" xpos="12" ypos="11">
+British singer, his most celebrated song is 'Kiss From A Rose'.
+</word>
+</verticals>
+</cw>
